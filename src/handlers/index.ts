@@ -1,5 +1,5 @@
-import actionToRequest from 'actionToRequest'
+import actionToRequest from 'actionToRequest';
 
 export {
-    actionToRequest
+    actionToRequest,
 }
